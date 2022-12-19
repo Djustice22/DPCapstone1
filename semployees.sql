@@ -1,0 +1,2 @@
+INSERT INTO Employees (Emp_Id,First_Name,Last_Name,Phone,Email,Password,Active,Date_Created,Hire_Date,Emp_Type)
+VALUES(1,'Jill','Balducci','883-188-1536','lbalducci0@twitpic.com','4zTi5qPAP7vA','true','9/24/2022','2/26/2022','Lynda');
